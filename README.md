@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Gonsalge Sureka Almeida, Ph.D.</h1>
-
 <h2>About Me</h2>
 
 I am an <b>Adjunct Professor at Trine University</b>, teaching graduate courses in the <b>Doctor of Business Administration (DBA)</b> and <b>Graduate Studies</b> programs. My teaching and research focus on applied statistics, multivariate analysis, data science, financial modeling, and quantitative methods.
