@@ -2,7 +2,7 @@
 
 I am an <b>Adjunct Professor at Trine University</b>, teaching graduate courses in the <b>Doctor of Business Administration (DBA)</b> and <b>Graduate Studies</b> programs. My teaching and research focus on applied statistics, multivariate analysis, data science, financial modeling, and quantitative methods.
 
-My research interests include <b>financial modeling in equity markets</b>, stochastic processes, portfolio optimization, quantitative risk analysis, algorithmic trading, and statistical learning. I also have extensive training in <b>professional trading education</b>, integrating quantitative trading strategies, technical analysis, and data-driven decision making into financial market research.
+My research specializes in financial modeling for equity markets, with interests in quantitative risk analysis, portfolio optimization, and algorithmic trading. I continuously expand my expertise through professional trading education, integrating quantitative trading strategies, technical analysis, and data-driven decision-making into financial market research and graduate education.
 
 I develop reproducible analytical workflows using <b>R</b>, <b>Python</b>, and <b>Git/GitHub</b> to support graduate education, applied research, and quantitative financial analysis.
 
