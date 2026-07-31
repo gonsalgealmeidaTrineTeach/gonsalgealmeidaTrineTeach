@@ -112,6 +112,8 @@ This GitHub account serves as the official repository for my Trine University co
 
 * 📘 RSH7033 – Applied Multivariate Statistics (DBA)
 * 📊 BA6933 – Statistics & Quantitative Methods
+* 📐 MA113 - College Algebra
+* 
 * 💻 R Programming Examples
 * 📈 Financial Modeling Projects
 * 📉 Equity Market Analytics
